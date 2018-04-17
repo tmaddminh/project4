@@ -1,2 +1,0 @@
-content of file 2
-edit file 2

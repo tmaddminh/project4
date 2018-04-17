@@ -2,3 +2,4 @@ content file 5
 edit
 edit after commit
 edit 1
+edit 2
